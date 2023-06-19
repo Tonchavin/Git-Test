@@ -1,0 +1,15 @@
+F:\Less_CZN\git_C\semenar1\Exercise1\bin\Debug\net6.0\Exercise1.exe
+F:\Less_CZN\git_C\semenar1\Exercise1\bin\Debug\net6.0\Exercise1.deps.json
+F:\Less_CZN\git_C\semenar1\Exercise1\bin\Debug\net6.0\Exercise1.runtimeconfig.json
+F:\Less_CZN\git_C\semenar1\Exercise1\bin\Debug\net6.0\Exercise1.dll
+F:\Less_CZN\git_C\semenar1\Exercise1\bin\Debug\net6.0\Exercise1.pdb
+F:\Less_CZN\git_C\semenar1\Exercise1\obj\Debug\net6.0\Exercise1.csproj.AssemblyReference.cache
+F:\Less_CZN\git_C\semenar1\Exercise1\obj\Debug\net6.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Less_CZN\git_C\semenar1\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfoInputs.cache
+F:\Less_CZN\git_C\semenar1\Exercise1\obj\Debug\net6.0\Exercise1.AssemblyInfo.cs
+F:\Less_CZN\git_C\semenar1\Exercise1\obj\Debug\net6.0\Exercise1.csproj.CoreCompileInputs.cache
+F:\Less_CZN\git_C\semenar1\Exercise1\obj\Debug\net6.0\Exercise1.dll
+F:\Less_CZN\git_C\semenar1\Exercise1\obj\Debug\net6.0\refint\Exercise1.dll
+F:\Less_CZN\git_C\semenar1\Exercise1\obj\Debug\net6.0\Exercise1.pdb
+F:\Less_CZN\git_C\semenar1\Exercise1\obj\Debug\net6.0\Exercise1.genruntimeconfig.cache
+F:\Less_CZN\git_C\semenar1\Exercise1\obj\Debug\net6.0\ref\Exercise1.dll
